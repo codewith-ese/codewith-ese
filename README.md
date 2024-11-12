@@ -36,8 +36,8 @@ I'm a passionate **[Software Developer Student** with experience in **Front and 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **Personal Website / Blog**(https://codewith-ese.github.io/wdd131/project/index.html)
+- **LinkedIn**(https://www.linkedin.com/in/monday-eseinone/)
+- **Twitter**(https://x.com/MondayEse2)
 
 
