@@ -7,7 +7,7 @@ I'm a passionate **[Software Developer Student** with experience in **Front and 
 - 🌱 Currently learning: **Database using workbench**
 - 🔭 Working on: **Material Estimator Software**
 - 🌍 Languages: **Proficient in English Language**
-- 📫 How to reach me: **Email: eeseinone@gmail.com/ whatsApp Phone Number: +123 8075236542**
+- 📫 How to reach me: **Email: eeseinone@gmail.com/ whatsApp Phone Number: +2348075236542**
 - ⚡ Fun fact: **Love leaning new things**
 
 ## My Skills 🧠
