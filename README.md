@@ -22,8 +22,7 @@ I'm a passionate **[Software Developer Student** with experience in **Front and 
 
 ## Featured Projects 💻
 
-### Material Estimator: https://eseinonecodehub.pythonanywhere.com/
-
+### [Material Estimator](https://eseinonecodehub.pythonanywhere.com/)
 ! Screenshot (https://res.cloudinary.com/dcxluplnr/image/upload/t_Banner 9:16/v1732273525/material_cal_mobile2_uni2tc.png)
 ### Screenshot [https://res.cloudinary.com/dcxluplnr/image/upload/t_Banner%209:16/v1732273525/material_cal_mobile2_uni2tc.png]
 **[Material Calculator]** is a **[web application that calculates measurements, estimates materials, and generates cutting lists for furniture projects, including marble estimation.]** built with **[HTML, CSS, JavaScript, Python, and Flask]**. This project demonstrates my ability to **[ build practical tools, solve real-world problems, and integrate server-side functionality with a user-friendly interface.]**. You can check out the repository [here](https://github.com/codewith-ese/myblogenv)
@@ -31,7 +30,6 @@ I'm a passionate **[Software Developer Student** with experience in **Front and 
 ### [Blog Project](https://eseinonecodehub.pythonanywhere.com/blogpost)
 
 ![Project 2 Screenshot](https://shorturl.at/SMxUV)
-
 **[Blog Project]** is a **[dynamic blogging platform that allows users to create, read, and manage posts. Built with]** built with **[HTML, CSS, JavaScript, Python, and Flask]**. This project showcases my skills in **[develop CRUD functionality, design responsive web pages, and handle backend operations effectively.]**. You can check out the repository [here](https://github.com/codewith-ese/myblogenv).
 
 ## Get in Touch 📬
