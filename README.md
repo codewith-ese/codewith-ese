@@ -19,7 +19,6 @@ I'm a passionate **[Software Developer Student** with experience in **Front and 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-
 ## Featured Projects 💻
 
 ### [Material Estimator](https://eseinonecodehub.pythonanywhere.com/)
