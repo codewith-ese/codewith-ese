@@ -30,7 +30,7 @@ I'm a passionate **[Software Developer Student** with experience in **Front and 
 
 ### [Project 2 Title](project_2_link)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Project 2 Screenshot](https://shorturl.at/SMxUV)
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
 
