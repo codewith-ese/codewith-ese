@@ -26,7 +26,7 @@ I'm a passionate **[Software Developer Student** with experience in **Front and 
 
 ! Screenshot (https://res.cloudinary.com/dcxluplnr/image/upload/t_Banner 9:16/v1732273525/material_cal_mobile2_uni2tc.png)
 ### Screenshot [https://res.cloudinary.com/dcxluplnr/image/upload/t_Banner%209:16/v1732273525/material_cal_mobile2_uni2tc.png]
-**[Material Calculator]** is a **[web application that calculates measurements, estimates materials, and generates cutting lists for furniture projects, including marble estimation.]** built with **[HTML, CSS, JavaScript, Python, and Flask]**. This project demonstrates my ability to **[ build practical tools, solve real-world problems, and integrate server-side functionality with a user-friendly interface.]**. You can check out the repository [here]([project_1_repository_link](https://github.com/codewith-ese/myblogenv)).
+**[Material Calculator]** is a **[web application that calculates measurements, estimates materials, and generates cutting lists for furniture projects, including marble estimation.]** built with **[HTML, CSS, JavaScript, Python, and Flask]**. This project demonstrates my ability to **[ build practical tools, solve real-world problems, and integrate server-side functionality with a user-friendly interface.]**. You can check out the repository [here](https://github.com/codewith-ese/myblogenv)
 
 ### [Project 2 Title](project_2_link)
 
